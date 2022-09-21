@@ -1,0 +1,10 @@
+[
+    {
+        "nome": "Édio Luiz Petroski et al, 1995",
+        "short_name": "petroski",
+        "genero": "masculino",
+        "formula_densidade": "1.10726863 - 0.00081201*(triceps+subscapular+supraIliaca+panturrilha)+0.00000212*((subscapular+triceps+supraIliaca+panturrilha)^2)-0.00041761*(idade)",
+        "formula_pct_gordura": "(495 / densidade) - 450",
+        "parametros": "triceps,subscapular,supraIliaca,panturrilha,idade"
+    }
+]
